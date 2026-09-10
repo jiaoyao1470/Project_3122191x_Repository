@@ -1,6 +1,6 @@
 # Understanding and Mitigating Client Fragmentation in Federated Domain Generalisation
 
-This is the code and log repository for my MSc project. The project studies what happens to FedPall, a prototype-based federated domain generalisation method, when a single domain's data is split across more than one client -- a situation we call client fragmentation -- and proposes a hierarchical redesign (referred to as RA, the Refined Approach, in the text) to address it.
+This is the code and log repository for my project. The project studies what happens to FedPall, a prototype-based federated domain generalisation method, when a single domain's data is split across more than one client -- a situation we call client fragmentation -- and proposes a hierarchical redesign (referred to as RA, the Refined Approach, in the text) to address it.
 
 The repository has two parts:
 
